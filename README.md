@@ -6,9 +6,9 @@
 # 👋 Hey there, I'm **Hamza Al-Mohmadi**
 ### 💻 Full Stack Web Developer | Laravel & Livewire Specialist
 
-🚀 A passionate Full Stack Developer with a strong focus on building high-performance web applications using **Laravel**, **Livewire**, and **modern JavaScript frameworks**.  
-I specialize in creating scalable and secure systems with elegant UI/UX, ensuring both functionality and performance.  
-My work revolves around **clean code**, **system optimization**, and **smooth user experience**.
+🚀 A passionate **Full Stack Developer** with a strong focus on building high-performance web applications using **Laravel**, **Livewire**, **PHP**, and **MySQL**.  
+I enjoy crafting efficient and scalable systems, writing clean and secure code, and optimizing databases using advanced **SQL** techniques.  
+My goal is to deliver complete digital solutions with great performance, reliability, and user experience.
 
 ---
 
@@ -17,12 +17,11 @@ My work revolves around **clean code**, **system optimization**, and **smooth us
 ![Livewire](https://img.shields.io/badge/Livewire-4B32C3?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
@@ -30,10 +29,10 @@ My work revolves around **clean code**, **system optimization**, and **smooth us
 ---
 
 ### ⚙️ Technologies & Tools
-- 🧩 **Back-End:** Laravel, Livewire, PHP, RESTful APIs, FilamentPHP  
-- 🎨 **Front-End:** React, Vue.js, TailwindCSS, Blade Templates  
-- 🧠 **Databases:** MySQL, SQLite, PostgreSQL  
-- ☁️ **DevOps:** Git, GitHub Actions, Nginx, Linux, Docker (basics)  
+- 🧩 **Back-End:** Laravel, Livewire, PHP, RESTful APIs  
+- 🧠 **Database:** MySQL, SQL, SQLite, PostgreSQL  
+- 🎨 **Front-End:** Blade Templates, TailwindCSS, JavaScript  
+- ☁️ **DevOps:** Git, GitHub Actions, Nginx, Linux  
 - 🧰 **Other Tools:** Figma, Postman, Photoshop  
 
 ---
@@ -68,7 +67,7 @@ My work revolves around **clean code**, **system optimization**, and **smooth us
 
 ---
 
-> 💡 *“Clean code is not just code that works — it’s code that’s easy to read, maintain, and improve.”*  
+> 💡 *“Clean code isn’t just about working code — it’s about clarity, performance, and maintainability.”*  
 > — **Hamza Al-Mohmadi**
 
 </div>
