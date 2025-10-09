@@ -3,16 +3,16 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="40%"/>  
 
-# 👋 أهلاً، أنا **حمزة المحمدي**
-### 🧑‍💻 Full Stack Web Developer | Laravel & Livewire Specialist
+# 👋 Hey there, I'm **Hamza Al-Mohmadi**
+### 💻 Full Stack Web Developer | Laravel & Livewire Specialist
 
-🎯 مبرمج متخصص في تطوير تطبيقات الويب المتكاملة باستخدام **Laravel**, **PHP**, و**JavaScript**.  
-أصمم وأبني أنظمة احترافية عالية الأداء تجمع بين **الواجهة الأمامية والخلفية** بخبرة في **Livewire v3**, **React**, **Vue**, و**Tailwind CSS**.  
-أركز على الكود النظيف، الأمان، وتحسين الأداء لتقديم حلول رقمية متكاملة تدعم التحول التقني للمؤسسات.
+🚀 A passionate Full Stack Developer with a strong focus on building high-performance web applications using **Laravel**, **Livewire**, and **modern JavaScript frameworks**.  
+I specialize in creating scalable and secure systems with elegant UI/UX, ensuring both functionality and performance.  
+My work revolves around **clean code**, **system optimization**, and **smooth user experience**.
 
 ---
 
-### 🧠 المهارات الأساسية
+### 🧠 Core Skills
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4B32C3?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -29,24 +29,24 @@
 
 ---
 
-### ⚙️ أدوات وتقنيات أستخدمها
+### ⚙️ Technologies & Tools
 - 🧩 **Back-End:** Laravel, Livewire, PHP, RESTful APIs, FilamentPHP  
 - 🎨 **Front-End:** React, Vue.js, TailwindCSS, Blade Templates  
 - 🧠 **Databases:** MySQL, SQLite, PostgreSQL  
-- ☁️ **DevOps:** Git, GitHub Actions, Nginx, Linux, Docker (أساسيات)  
+- ☁️ **DevOps:** Git, GitHub Actions, Nginx, Linux, Docker (basics)  
 - 🧰 **Other Tools:** Figma, Postman, Photoshop  
 
 ---
 
-### 🚀 المشاريع التي أعمل عليها
-- 💼 نظام إدارة شبكة إنترنت (Hotspot) باستخدام Laravel 11 + Livewire v3  
-- 🧾 أنظمة إدارة فواتير وتقارير تفاعلية  
-- 🧍‍♂️ نظام إدارة موارد بشرية (HR System)  
-- 🚚 نظام تتبع شحنات وطرود في الوقت الفعلي  
+### 🚀 Current Projects
+- 💼 Internet Network Management System (Hotspot) using Laravel 11 + Livewire v3  
+- 🧾 Interactive Invoicing & Reporting System  
+- 🧍‍♂️ Human Resources Management System (HRMS)  
+- 🚚 Real-Time Shipment & Delivery Tracking System  
 
 ---
 
-### 📫 تواصل معي
+### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-hamza0almohmadi-black?style=flat&logo=github)](https://github.com/hamza0almohmadi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Nasr-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza0almohmadi)
 [![Gmail](https://img.shields.io/badge/Gmail-hamza0almohmadi%40gmail.com-red?style=flat&logo=gmail)](mailto:hamza0almohmadi@gmail.com)
@@ -68,7 +68,7 @@
 
 ---
 
-> 💡 *“الكود النظيف ليس مجرد كود يعمل، بل كود يسهل قراءته وصيانته.”*  
-> — **حمزة المحمدي**
+> 💡 *“Clean code is not just code that works — it’s code that’s easy to read, maintain, and improve.”*  
+> — **Hamza Al-Mohmadi**
 
 </div>
