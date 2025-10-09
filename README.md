@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="40%"/>  
@@ -70,4 +70,78 @@ My work revolves around **clean code**, **system optimization**, and **smooth us
 > 💡 *“Clean code is not just code that works — it’s code that’s easy to read, maintain, and improve.”*  
 > — **Hamza Al-Mohmadi**
 
+</div> -->
+
+# 👋 Hi, I'm Hamza Nasr!
+
+🚀 **Full-Stack Web Developer | Laravel Specialist**
+
+Passionate about building powerful and scalable web solutions using **Laravel**, **Livewire**, and **modern front-end frameworks**.  
+I focus on clean code, system performance, and delivering seamless user experiences that help businesses grow and operate efficiently.
+
+📫 **Contact Me:**  
+[GitHub](https://github.com/hamza0almohmadi) | 📩 hamza0almohmadi@gmail.com
+
+---
+
+## 🔧 Tech Stack & Skills
+
+- **Backend Development:** PHP, Laravel 11, RESTful APIs, MySQL, Eloquent ORM  
+- **Frontend Development:** HTML5, CSS3, TailwindCSS, Livewire v3, Alpine.js  
+- **Tools & Workflow:** Git, GitHub, Composer, npm, VS Code, Postman  
+- **Database & Data Handling:** MySQL, Query Optimization, Database Design  
+- **System Design:** Authentication, Role Management, Reporting, Data Analysis  
+- **Soft Skills:** Team Collaboration, Problem Solving, Critical Thinking, Continuous Learning  
+
+---
+
+## 🚀 Featured Projects
+
+### **📌 Internet Network Management System**
+Comprehensive web system for managing hotspot networks and client billing.  
+- **Features:** Service plans, client monitoring, invoices, reports.  
+- **Tech:** Laravel 11, Livewire 3, MySQL  
+- **Outcome:** Increased management efficiency and reduced operational errors.
+
+---
+
+### **📌 Shipment Tracking System**
+A full system to manage and track shipments from dispatch to delivery.  
+- **Features:** Real-time shipment tracking, driver assignment, reports dashboard.  
+- **Tech:** Laravel 11, Livewire, JavaScript, MySQL  
+- **Outcome:** Enhanced logistics tracking and transparency.
+
+---
+
+### **📌 HR Management System**
+Complete Human Resource Management platform.  
+- **Features:** Employee records, attendance, payroll, performance analytics.  
+- **Tech:** Laravel, Filament Admin, MySQL  
+- **Outcome:** Simplified HR operations and improved employee data accuracy.
+
+---
+
+## 🎯 Hobbies & Interests
+
+- 💻 **Web Development:** Building modern and efficient web applications.  
+- 📚 **Learning:** Exploring Laravel ecosystem & backend architecture.  
+- ⚙️ **Problem Solving:** Enjoy writing optimized and elegant solutions.  
+- ☕ **Community Work:** Helping others learn clean Laravel development.  
+
+---
+
+🌟 Let's collaborate to build robust, scalable, and elegant web solutions with Laravel! 🚀
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza0almohmadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza0almohmadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
