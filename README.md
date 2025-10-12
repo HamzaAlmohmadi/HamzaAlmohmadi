@@ -80,7 +80,7 @@ Passionate about building powerful and scalable web solutions using **Laravel**,
 I focus on clean code, system performance, and delivering seamless user experiences that help businesses grow and operate efficiently.
 
 📫 **Contact Me:**  
-[GitHub](https://github.com/hamza0almohmadi) | 📩 hamza0almohmadi@gmail.com
+[GitHub](https://github.com/Hamza0xNasr) | 📩 hamza0almohmadi@gmail.com
 
 ---
 
