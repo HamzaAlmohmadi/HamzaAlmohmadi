@@ -97,11 +97,15 @@ I focus on clean code, system performance, and delivering seamless user experien
 
 ## 🚀 Featured Projects
 
-### **📌 Internet Network Management System**
-Comprehensive web system for managing hotspot networks and client billing.  
-- **Features:** Service plans, client monitoring, invoices, reports.  
-- **Tech:** Laravel 11, Livewire 3, MySQL  
-- **Outcome:** Increased management efficiency and reduced operational errors.
+### **📌 Diesel Company Management System**
+Comprehensive web system for managing diesel distribution, drivers, and regional operations.  
+- **Features:**  
+  - Manage drivers, representatives, and clients across regions.  
+  - Track diesel deliveries, invoices, and balances.  
+  - Assign tasks to field drivers and monitor performance.  
+  - Generate detailed financial and operational reports.  
+- **Tech:** Laravel 11, Livewire v3, MySQL  
+- **Outcome:** Streamlined company operations and improved field coordination.
 
 ---
 
@@ -113,11 +117,15 @@ A full system to manage and track shipments from dispatch to delivery.
 
 ---
 
-### **📌 HR Management System**
-Complete Human Resource Management platform.  
-- **Features:** Employee records, attendance, payroll, performance analytics.  
+### **📌 Hospital Management System**
+Comprehensive system to manage hospital operations, patients, and staff efficiently.  
+- **Features:**  
+  - Patient records, doctor assignments, and appointments.  
+  - Medical reports, prescriptions, and billing.  
+  - Staff management and role-based access control.  
+  - Analytical dashboards for hospital performance.  
 - **Tech:** Laravel, Filament Admin, MySQL  
-- **Outcome:** Simplified HR operations and improved employee data accuracy.
+- **Outcome:** Improved hospital workflow and accurate patient data tracking.
 
 ---
 
